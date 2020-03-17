@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+
+    <string-array name="cars_names">
+        <item>Bentley</item>
+        <item>Ford</item>
+        <item>Hyundai</item>
+        <item>Mercedes</item>
+        <item>Nissan</item>
+        <item>Toyota</item>
+    </string-array>
+    <string-array name="cars_description">
+        <item>Bentley car is a good car </item>
+        <item>Ford car is very good car </item>
+        <item>Hyundai car also popular </item>
+        <item>Mercedes car  also good car</item>
+        <item>Nissan also beautiful and good car</item>
+        <item>Toyota also beautiful and good car</item>
+    </string-array>
+</resources>
